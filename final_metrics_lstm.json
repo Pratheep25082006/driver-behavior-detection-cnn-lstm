@@ -1,0 +1,23 @@
+{
+  "train_accuracy": 0.932584285736084,
+  "val_accuracy": 0.5333333611488342,
+  "best_val_accuracy": 0.5333333611488342,
+  "test_accuracy": 0.6666666865348816,
+  "test_loss": 1.1259329319000244,
+  "max_seq_len": 333,
+  "train_subjects": [
+    "Mohan",
+    "Rakesh",
+    "Siva",
+    "Praneeth",
+    "Sriram",
+    "Mahesh"
+  ],
+  "val_subjects": [
+    "Pratheep",
+    "Harini"
+  ],
+  "test_subjects": [
+    "HM"
+  ]
+}

@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+ Distraction     0.7600    0.8837    0.8172       215
+    Drinking     0.9458    0.6856    0.7949       229
+      Normal     0.6283    0.9064    0.7422       235
+       Phone     0.6985    0.8107    0.7504       280
+    Sleeping     0.7328    0.3586    0.4816       237
+
+    accuracy                         0.7291      1196
+   macro avg     0.7531    0.7290    0.7173      1196
+weighted avg     0.7499    0.7291    0.7161      1196
